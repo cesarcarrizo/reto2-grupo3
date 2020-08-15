@@ -1,0 +1,14 @@
+C:\Users\ADMIN\Desktop\reto-dos-android-grupo3\RetoDos\RetoDos\bin\Debug\netstandard2.0\RetoDos.deps.json
+C:\Users\ADMIN\Desktop\reto-dos-android-grupo3\RetoDos\RetoDos\bin\Debug\netstandard2.0\RetoDos.dll
+C:\Users\ADMIN\Desktop\reto-dos-android-grupo3\RetoDos\RetoDos\bin\Debug\netstandard2.0\ref\RetoDos.dll
+C:\Users\ADMIN\Desktop\reto-dos-android-grupo3\RetoDos\RetoDos\bin\Debug\netstandard2.0\RetoDos.pdb
+C:\Users\ADMIN\Desktop\reto-dos-android-grupo3\RetoDos\RetoDos\obj\Debug\netstandard2.0\RetoDos.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\reto-dos-android-grupo3\RetoDos\RetoDos\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ADMIN\Desktop\reto-dos-android-grupo3\RetoDos\RetoDos\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\ADMIN\Desktop\reto-dos-android-grupo3\RetoDos\RetoDos\obj\Debug\netstandard2.0\RetoDos.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\reto-dos-android-grupo3\RetoDos\RetoDos\obj\Debug\netstandard2.0\RetoDos.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\reto-dos-android-grupo3\RetoDos\RetoDos\obj\Debug\netstandard2.0\RetoDos.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\reto-dos-android-grupo3\RetoDos\RetoDos\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ADMIN\Desktop\reto-dos-android-grupo3\RetoDos\RetoDos\obj\Debug\netstandard2.0\RetoDos.dll
+C:\Users\ADMIN\Desktop\reto-dos-android-grupo3\RetoDos\RetoDos\obj\Debug\netstandard2.0\ref\RetoDos.dll
+C:\Users\ADMIN\Desktop\reto-dos-android-grupo3\RetoDos\RetoDos\obj\Debug\netstandard2.0\RetoDos.pdb

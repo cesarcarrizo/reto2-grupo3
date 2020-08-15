@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "wo4VLj7/PfN1zBsgOxsmM60R9BidhZcWUHkO46tvQJWG6fU7maTErf6mMceBNxQTTVzL9esngkzUx4T9j9uUWQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ADMIN\\Desktop\\reto-dos-android-grupo3\\RetoDos\\RetoDos.iOS\\RetoDos.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ADMIN\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.5.0.495\\xamarin.forms.4.5.0.495.nupkg.sha512"
+  ],
+  "logs": []
+}
